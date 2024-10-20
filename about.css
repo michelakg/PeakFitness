@@ -73,4 +73,24 @@
     width:100%;
  }
  
-
+ .about-section{
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: rgb(218, 36, 36);
+  
+ }
+ .about-section .container h2{
+  font-size: 1.7rem;
+  color: rgba(57, 4, 4, 0.827);
+  border-style: double;
+  border-width: 10px;
+  text-align: center;
+ }
+ .about-section p{
+  padding-bottom: 20px;
+  margin-top: 10px;
+ }
+.mission-points strong{
+  color: rgba(57, 4, 4, 0.827);
+  text-decoration: dashed;
+}
